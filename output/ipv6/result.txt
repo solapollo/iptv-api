@@ -10,17 +10,22 @@ CCTV-6,https://cc06.tv12.xyz/7.m3u8
 CCTV-7,https://cc06.tv12.xyz/8.m3u8
 CCTV-8,https://cc06.tv12.xyz/9.m3u8
 CCTV-9,https://cc06.tv12.xyz/10.m3u8
+CCTV-10,https://cc06.tv12.xyz/11.m3u8
+CCTV-11,https://cc06.tv12.xyz/12.m3u8
+CCTV-12,https://cc06.tv12.xyz/13.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,https://cc06.tv12.xyz/14.m3u8
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-14,https://cc06.tv12.xyz/15.m3u8
+CCTV-15,https://cc06.tv12.xyz/16.m3u8
+CCTV-17,https://cc06.tv12.xyz/17.m3u8
+CETV-1,https://cc06.tv12.xyz/23.m3u8
+CETV-2,https://cc06.tv12.xyz/24.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 
 💰央视付费频道,#genre#
@@ -45,8 +50,8 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 浙江教育,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 浙江新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8?a=1000&amp;d=83b26bacf5397c013aff782b2c4287d0&amp;k=c99bdac76cff6ddc27e750ba689b7d5b&amp;t=1704368408
 浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8?a=1000&d=4e3d476240659192311f471b7b63aec2&k=d26568bae9dd23dd781c769c148459b2&t=1683180450
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 
@@ -57,7 +62,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
-淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
 
 ☘️辽宁频道,#genre#
 
@@ -75,7 +79,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 荆门新闻综合,https://stream.jmtv.com.cn/xwzh/playlist.m3u8?_upt=3e28e7271664278691
 
 ☘️广西频道,#genre#
-南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 
@@ -115,6 +118,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 清河新闻综合,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
+清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
@@ -139,20 +143,19 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 ☘️宁夏频道,#genre#
 
 ☘️吉林频道,#genre#
-长白朝语,http://hplayer1.juyun.tv:80/camera/11344136.m3u8
 
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 
 ☘️黑龙江频道,#genre#
 
 🎬电影频道,#genre#
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 
 🏀体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8
@@ -171,4 +174,4 @@ CHC家庭影院,http://eastscreen.tv/ooooo.php
 天龙八部,https://live.metshop.top/huya/23903123
 
 🕘️更新时间,#genre#
-2025-10-08 19:59:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-10-10 19:51:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
