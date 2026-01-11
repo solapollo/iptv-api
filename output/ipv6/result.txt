@@ -9,9 +9,11 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 
 📡卫视频道,#genre#
-甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 
 ☘️山东频道,#genre#
@@ -47,12 +49,12 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 ☘️四川频道,#genre#
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-云霄综合,https://live.zzyxxw.com:2443/live/xwzh.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 
 ☘️海南频道,#genre#
@@ -60,13 +62,13 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
-邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
+任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
@@ -106,8 +108,6 @@ CHC家庭影院,http://eastscreen.tv/ooooo.php
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 
 🪁动画频道,#genre#
-海绵宝宝,https://live.metshop.top/douyu/3949681
-漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
 🎮游戏频道,#genre#
@@ -117,4 +117,4 @@ CHC家庭影院,http://eastscreen.tv/ooooo.php
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-01-08 18:18:21,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-01-10 18:25:13,https://event.pull.hebtv.com/jishi/cp1.m3u8
