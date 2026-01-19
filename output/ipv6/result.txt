@@ -46,6 +46,7 @@
 
 ☘️四川频道,#genre#
 旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
+泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 
 ☘️陕西频道,#genre#
@@ -61,12 +62,12 @@
 ☘️河北频道,#genre#
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️贵州频道,#genre#
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
@@ -90,19 +91,15 @@
 ☘️内蒙古频道,#genre#
 
 ☘️云南频道,#genre#
-文山州公共,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel8/playlist.m3u8?zyund
 
 ☘️青海频道,#genre#
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
-安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
-西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8
 
 ☘️黑龙江频道,#genre#
 
 🎬电影频道,#genre#
 CHC家庭影院,http://eastscreen.tv/ooooo.php
 经典电影,https://yylunbo.ottiptv.cc/yy/1414812324
+天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv
 无线星河,https://cdn6.101.qzz.io/163189/tvbxh
 
 🏀体育频道,#genre#
@@ -120,4 +117,4 @@ CHC家庭影院,http://eastscreen.tv/ooooo.php
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-01-16 18:11:06,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+2026-01-18 18:23:00,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
