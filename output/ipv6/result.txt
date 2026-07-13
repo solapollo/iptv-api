@@ -4,17 +4,18 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 🌊港·澳·台,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 
 💰央视付费频道,#genre#
-央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 
 ☘️山东频道,#genre#
@@ -23,10 +24,7 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
-浙江经济生活,http://ali-xwl.cztv.com/live/channel031080Plxw.m3u8
-浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
-浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
-浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 
 ☘️北京频道,#genre#
@@ -74,7 +72,7 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
@@ -92,6 +90,8 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 ☘️安徽频道,#genre#
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 
 ☘️宁夏频道,#genre#
 
@@ -109,14 +109,12 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
 精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
+精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
+精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 
 🪁动画频道,#genre#
 七龙珠,https://live.metshop.top/huya/11601966
-海绵宝宝,https://live.metshop.top/douyu/3949681
-漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🎮游戏频道,#genre#
 
@@ -125,4 +123,4 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 🏛经典剧场,#genre#
 
 🕘️更新时间,#genre#
-2026-07-10 20:08:34,https://xykt-fix.github.io/play/a02b/index.m3u8
+2026-07-12 20:35:05,https://xykt-fix.github.io/play/a02b/index.m3u8
