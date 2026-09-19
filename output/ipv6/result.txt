@@ -1,12 +1,9 @@
 📺央视频道,#genre#
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-11,https://xykt-fix.github.io/play/a02b/index.m3u8
-CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 🌊港·澳·台,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
 
 💰央视付费频道,#genre#
 
@@ -18,7 +15,6 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 ☘️山东频道,#genre#
 
 ☘️广东频道,#genre#
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 
 ☘️浙江频道,#genre#
 浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
@@ -45,12 +41,12 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 ☘️广西频道,#genre#
 南宁都市生活,http://615bbf179ba53515dccad7b1da5d1ad9.livehwc3.cn/hls.nntv.cn/nnlive/WLSH_24.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2598844eaee8a4265e706fc14b3fc11d
-广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 
 ☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 
 ☘️陕西频道,#genre#
 
@@ -65,15 +61,12 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 ☘️河北频道,#genre#
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-邯郸新闻,https://jwcdnqx.hebyun.com.cn/live/hdxwzh/1500k/tzwj_video.m3u8
 邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
 邢台综合,https://jwplay.hebyun.com.cn:443/live/xtsrmtzs/1500k/tzwj_video.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 兴隆综合,https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
-平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
-清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 
 ☘️甘肃频道,#genre#
 
@@ -84,7 +77,6 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 ☘️安徽频道,#genre#
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 
 ☘️宁夏频道,#genre#
 
@@ -96,22 +88,16 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 ☘️云南频道,#genre#
 
 ☘️青海频道,#genre#
-西宁新闻综合,https://liveout.xntv.tv/a65jur/96iln2.m3u8?zqinghd
 
 ☘️黑龙江频道,#genre#
 
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
-精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
 七龙珠,https://live.metshop.top/huya/11601966
-海绵宝宝,https://live.metshop.top/douyu/3949681
-猫和老鼠,https://live.metshop.top/huya/11352879
+中华小当家,https://live.metshop.top/huya/11342413
 
 🎮游戏频道,#genre#
 
@@ -123,4 +109,4 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 射雕英雄传,https://live.metshop.top/huya/23824164
 
 🕘️更新时间,#genre#
-2026-09-16 21:15:51,https://xykt-fix.github.io/play/a02b/index.m3u8
+2026-09-18 20:57:44,https://xykt-fix.github.io/Y77.m3u8
